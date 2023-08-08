@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Angular/static/css/main.073c9b0a.css",
-    "main.js": "/Angular/static/js/main.cc51932c.js",
+    "main.js": "/Angular/static/js/main.9f457b41.js",
     "static/js/787.28cb0dcd.chunk.js": "/Angular/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.svg": "/Angular/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Angular/index.html",
     "main.073c9b0a.css.map": "/Angular/static/css/main.073c9b0a.css.map",
-    "main.cc51932c.js.map": "/Angular/static/js/main.cc51932c.js.map",
+    "main.9f457b41.js.map": "/Angular/static/js/main.9f457b41.js.map",
     "787.28cb0dcd.chunk.js.map": "/Angular/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.cc51932c.js"
+    "static/js/main.9f457b41.js"
   ]
 }
